@@ -1,0 +1,12 @@
+# ============================================
+# ⚠️  REPLACE VALUES BELOW WITH YOUR OWN ⚠️
+# ============================================
+
+# FIX: Use mongodb+srv:// (NOT mongodb://) for Atlas
+# FIX: Add your actual database name before the ?
+# Format: mongodb+srv://<username>:<password>@<cluster>/<dbname>?retryWrites=true&w=majority
+
+MONGO_URI=mongodb+srv://Users_db:T2GiPUg1W2jKpDWI@cluster0.ul9hjqv.mongodb.net/edashboard?retryWrites=true&w=majority&appName=Cluster0
+JWT_KEY=e-comm
+
+PORT=5000
